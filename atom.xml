@@ -4,7 +4,7 @@
   <title><![CDATA[GG&VV]]></title>
   <link href="http://ggvv.github.io/atom.xml" rel="self"/>
   <link href="http://ggvv.github.io/"/>
-  <updated>2013-07-10T17:11:39+08:00</updated>
+  <updated>2013-07-12T09:43:35+08:00</updated>
   <id>http://ggvv.github.io/</id>
   <author>
     <name><![CDATA[GGVV]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://ggvv.github.io/blog/2013/07/12/hello-world/"/>
+    <updated>2013-07-12T09:42:00+08:00</updated>
+    <id>http://ggvv.github.io/blog/2013/07/12/hello-world</id>
+    <content type="html"><![CDATA[<p>We are GG &amp; VV :)</p>
+]]></content>
+  </entry>
   
 </feed>
